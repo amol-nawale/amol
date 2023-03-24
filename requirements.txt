@@ -12,4 +12,5 @@ openpyxl
 newspaper3k
 datetime
 streamlit >= 1.9.2 
+wordcloud
 
