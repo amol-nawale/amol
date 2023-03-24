@@ -1,9 +1,0 @@
-numpy
-pandas
-scipy
-matplotlib
-streamlit
-pandas-profiling
-streamlit-pandas-profiling
-xlrd
-openpyxl
