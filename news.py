@@ -56,7 +56,7 @@ with st.container():
         df = pd.DataFrame(result)
 
 
-        for i in range(0,5):
+        for i in range(0,int(day//3):
             googlenews.getpage(i)
             result = googlenews.result()
             df = df.append(result)
