@@ -9,5 +9,5 @@ GoogleNews
 Article
 xlrd
 openpyxl
-newspaper
+newspaper3k
 
