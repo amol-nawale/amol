@@ -9,4 +9,5 @@ GoogleNews
 Article
 xlrd
 openpyxl
+newspaper
 
