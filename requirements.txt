@@ -1,6 +1,0 @@
-numpy
-pandas
-matplotlib
-streamlit
-scikit-learn
-pickle
