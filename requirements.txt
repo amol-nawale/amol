@@ -6,4 +6,8 @@ matplotlib
 seaborn
 nltk
 GoogleNews
+newspaper
+Article
+xlrd
+openpyxl
 
